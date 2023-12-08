@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Tousif Islam and I'm a Full-stack Develeoper, from India</p>
+<p align="left">My name is Tousif Islam and I'm a Full-stack Developer, from India</p>
 
 ###
 
