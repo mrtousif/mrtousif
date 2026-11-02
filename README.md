@@ -20,6 +20,13 @@
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo"  /> </a>
   <img width="12" />
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="30" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" alt="dotnet" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" alt="golang" />
+
+  <img src="https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="LLM Engineering" />
+  
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="nestjs logo"  />
